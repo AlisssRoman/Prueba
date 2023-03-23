@@ -13,5 +13,7 @@
     </head>
     <body>
         <h1>Bom Dia</h1>
+        <button>Presioname sí te gusta lapaGol</button>
+        <%System.out.println("Soy codigo Java en un archivo HTML ¿QUE ESSSS ESTOOOOOOOOOOOOOOOOO?")%>
     </body>
 </html>
